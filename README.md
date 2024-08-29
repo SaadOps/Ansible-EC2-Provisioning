@@ -1,1 +1,1 @@
-# Ansible-EC2-Provisioning
+# Automated EC2 Provisioning and Management with Ansible
